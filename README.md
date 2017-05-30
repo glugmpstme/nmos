@@ -1,6 +1,6 @@
 # nmOS
 
-## Description - What is this project about?
+## Description
 A custom distro by mpstmeglug for educational purposes. It is an ubuntu-based distribution.  
 **Method of developing the distro**- Forking  
 **Base**- Ubuntu server 16.04.2 LTS release  
