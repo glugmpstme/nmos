@@ -2,19 +2,19 @@
 
 ## Description - What is this project about?
 A custom distro by mpstmeglug for educational purposes. It is an ubuntu-based distribution.  
-**Method of developing the distro**: Forking  
-**Base**: Ubuntu server 16.04.2 LTS release  
-**Desktop environment**: Options taken into consideration  
+**Method of developing the distro**- Forking  
+**Base**- Ubuntu server 16.04.2 LTS release  
+**Desktop environment**- Options taken into consideration are-  
 * LxQt
 * Budgie
 * Cinnamon  
   
-**Display server**:  
-**File system**:  
-**Icon theme**:  
-**Bootmode**:  
-**Mirroring**:  
-**Time server**:  
+**Display server**- Wayland  
+**File system**- ZFS vs ext4  
+**Icon theme**- Numix  
+**Bootmode**- systemd vs GRUB  
+**Mirroring**-  
+**Time server**-  
 
 
 ## Installation instructions
