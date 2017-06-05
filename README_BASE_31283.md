@@ -5,12 +5,15 @@
 A customised GNU/Linux distribution by mpstmeglug.
 Remixed from ubuntu and tailor made for educational purposes.
 
- - **Base:** Ubuntu Desktop 16.04.2 LTS
- - **Desktop environment:** LxQt
- - **Display server:** Wayland
- - **File system:** ZFS vs ext4
- - **Icon theme:** Numix
- - **Mirroring:**  
+**Method of developing the distro**- Remix
+**Base**- Ubuntu server 16.04.2 LTS release
+**Desktop environment**- LxQt
+**Display server**- Wayland
+**File system**- ZFS vs ext4
+**Icon theme**- Numix
+**Bootmode**- systemd vs GRUB
+**Mirroring**-  
+**Time server**- 
 
 ## Preparing the build environment
 
